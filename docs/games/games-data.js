@@ -372,7 +372,7 @@ const archeryGame = {
 const OLAWA_PLACES = [
   { name: "Dworzec PKP Oława", lat: 50.93097, lng: 17.29695, radius: 150 },
   { name: "Szpital w Oławie", lat: 50.95218066842174, lng: 17.28547078989738, radius: 130 },
-  { name: "Hufiec ZHP Oława", lat: 50.936720853993656, lng: 17.29901856055208, radius: 130 },
+  { name: "Hufiec ZHP Oława Kamienna 4", lat: 50.936720853993656, lng: 17.29901856055208, radius: 130 },
   { name: "Komenda Powiatowa Policji w Oławie", lat: 50.94234391380608, lng: 17.296833905545103, radius: 130 },
   { name: "Pomnik Stulecia Niepodległości", lat: 50.93385859353967, lng: 17.298018480064037, radius: 130 },
 ];
