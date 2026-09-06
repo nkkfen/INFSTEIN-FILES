@@ -83,6 +83,13 @@ const FORBIDDEN_STEMS = [
   "szon",
   "cuck",
   "kurewka",
+  "seks",
+  "sperma",
+  "cum",
+  "piwo",
+  "wóda",
+  "wódka",
+  "rucha",
   // angielskie
   "fuck",
   "shit",
