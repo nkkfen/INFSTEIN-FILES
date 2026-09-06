@@ -21,7 +21,7 @@ const GAME_CONFIG = {
   maxScore: 150,
   minScore: 50,
   errorPenalty: 20,
-  secondsPerPenaltyPoint: 2,
+  secondsPerPenaltyPoint: 3,
 };
 
 /**
