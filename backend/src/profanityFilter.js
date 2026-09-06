@@ -90,6 +90,9 @@ const FORBIDDEN_STEMS = [
   "wóda",
   "wódka",
   "rucha",
+  "ćpun",
+  "mefe",
+  "naga",
   // angielskie
   "fuck",
   "shit",
